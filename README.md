@@ -1,2 +1,3 @@
-# mini-data-pipeline-0nke
-Automated issue comment bot repository
+# Mini Data Pipeline 0Nke
+
+Automated issue comment bot repository.
